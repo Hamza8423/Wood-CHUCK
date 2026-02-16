@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(215, 137, 78);
+} 
+img{
+    /* I don't want to edit it :P */
+}
+h1{
+    color:rgb(55, 20, 2);
+    font-size: 60px;
+}
+p{
+    color:rgb(55, 20, 2);
+    font-size: 30px;
+}
